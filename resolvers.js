@@ -4,8 +4,7 @@ const { PubSub } = require("graphql-subscriptions");
 const orders = require("./mocks/orders.json");
 const pizzas = require("./mocks/pizzas.json");
 const modifications = require("./mocks/modifications.json");
-
-let amount = 1000;
+let { amount } = require("./mocks/amount.json");
 
 const pubsub = new PubSub();
 
@@ -56,6 +55,13 @@ const resolvers = {
       amount += newAmount;
 
       pubsub.publish("AMOUNT_UPDATED", { amountUpdated: amount });
+      fs.readFile("mocks/amount.json", "utf-8", function callback(err, data) {
+        if (err) console.error(err);
+        else {
+          const json = JSON.stringify({ amount });
+          fs.writeFile("mocks/amount.json", json, "utf-8", () => amount);
+        }
+      });
       return amount;
     },
   },
