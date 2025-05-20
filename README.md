@@ -1,9 +1,11 @@
 # pizza-app-graphql-backend
 
-Server part for pizza graphql project. 
+Frontend [repo](https://github.com/kristinashevchenko/pizza-app-graphql)
+
+Server part for pizza graphql project.
+
 - Defines schema and resolvers.
 - Support subsciption based on websockets
-
 
 To start the server please run `npm run dev`.
 

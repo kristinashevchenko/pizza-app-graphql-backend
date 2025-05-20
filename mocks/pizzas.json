@@ -1,56 +1,56 @@
 [
   {
     "id": "40998ec3-3836-43aa-a0eb-44d9ef058597",
-    "name": "Мексиканская",
+    "name": "Mexican",
     "image": "/images/meksikanskaya_small.png",
     "popularity": 4,
     "kind": ["hot"]
   },
   {
     "id": "b89387ce-efba-4a06-b716-40bb0057e15b",
-    "name": "Карбонара",
+    "name": "Carbonara",
     "image": "/images/carbonara.png",
     "popularity": 8,
     "kind": ["meat"]
   },
   {
     "id": "fc169321-941f-4ff3-ace8-7ab0df9943e8",
-    "name": "5 сыров",
+    "name": "Cheese",
     "image": "/images/5_syrov.png",
     "popularity": 10,
     "kind": ["vegan"]
   },
   {
     "id": "dcc4dc00-7ba7-45bb-a393-b4567cb44f60",
-    "name": "Пепперони",
+    "name": "Pepperoni",
     "image": "/images/pepperoni.png",
     "popularity": 9,
     "kind": ["hot"]
   },
   {
     "id": "4c7f7c2c-a56b-4a21-bc01-62d2ef6f6d87",
-    "name": "Маргарита",
+    "name": "Margarita",
     "image": "/images/margarita.png",
     "popularity": 0,
     "kind": ["vegan"]
   },
   {
     "id": "c8b29daf-72ae-4228-bc58-3d5182532819",
-    "name": "Барбекю",
+    "name": "Barbeque",
     "image": "/images/barbecue.png",
     "popularity": 6,
     "kind": ["meat"]
   },
   {
     "id": "9c8c1f0b-5ba6-46fc-b733-732f9540cfc6",
-    "name": "Овощная",
+    "name": "Vegetable",
     "image": "/images/ovoshchnaya.png",
     "popularity": 0,
     "kind": ["vegan"]
   },
   {
     "id": "aad94bf3-cc29-462f-9ddd-6d6424ebcdf1",
-    "name": "Креветки с ананасами",
+    "name": "Prawns with Pineapple",
     "image": "/images/krevetki_s_ananasom.png",
     "popularity": 2,
     "kind": ["close"]

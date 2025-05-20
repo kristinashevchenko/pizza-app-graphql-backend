@@ -5,49 +5,49 @@
       "dcc4dc00-7ba7-45bb-a393-b4567cb44f60",
       "4c7f7c2c-a56b-4a21-bc01-62d2ef6f6d87"
     ],
-    "dough": "тонкое",
+    "dough": "thin",
     "size": 26,
     "price": 7.99
   },
   {
     "id": "991b9c74-0136-425e-83f5-61219d20dab1",
     "pizzasIds": ["9c8c1f0b-5ba6-46fc-b733-732f9540cfc6"],
-    "dough": "тонкое",
+    "dough": "thin",
     "size": 26,
     "price": 12.49
   },
   {
     "id": "11f0dd53-d4ed-43b6-b40e-236ce42a68db",
     "pizzasIds": ["40998ec3-3836-43aa-a0eb-44d9ef058597"],
-    "dough": "тонкое",
+    "dough": "thin",
     "size": 26,
     "price": 13.49
   },
   {
     "id": "1b0bb767-9988-493e-86b0-0f884163a70a",
     "pizzasIds": ["b89387ce-efba-4a06-b716-40bb0057e15b"],
-    "dough": "тонкое",
+    "dough": "thin",
     "size": 26,
     "price": 14.99
   },
   {
     "id": "6fbf9d3b-4901-464c-aa8b-336f817d8495",
     "pizzasIds": ["c8b29daf-72ae-4228-bc58-3d5182532819"],
-    "dough": "тонкое",
+    "dough": "thin",
     "size": 26,
     "price": 15.99
   },
   {
     "id": "64749ee6-4a1e-49d1-ae61-e69bbbe6c87a",
     "pizzasIds": ["fc169321-941f-4ff3-ace8-7ab0df9943e8"],
-    "dough": "тонкое",
+    "dough": "thin",
     "size": 26,
     "price": 16.99
   },
   {
     "id": "0b988a47-f503-4866-af93-2518b915db66",
     "pizzasIds": ["aad94bf3-cc29-462f-9ddd-6d6424ebcdf1"],
-    "dough": "тонкое",
+    "dough": "thin",
     "size": 26,
     "price": 19.99
   },
@@ -57,7 +57,7 @@
       "dcc4dc00-7ba7-45bb-a393-b4567cb44f60",
       "4c7f7c2c-a56b-4a21-bc01-62d2ef6f6d87"
     ],
-    "dough": "тонкое",
+    "dough": "thin",
     "size": 30,
     "price": 15.99
   },
@@ -67,7 +67,7 @@
       "40998ec3-3836-43aa-a0eb-44d9ef058597",
       "9c8c1f0b-5ba6-46fc-b733-732f9540cfc6"
     ],
-    "dough": "тонкое",
+    "dough": "thin",
     "size": 30,
     "price": 22.49
   },
@@ -77,7 +77,7 @@
       "b89387ce-efba-4a06-b716-40bb0057e15b",
       "c8b29daf-72ae-4228-bc58-3d5182532819"
     ],
-    "dough": "тонкое",
+    "dough": "thin",
     "size": 30,
     "price": 22.99
   },
@@ -87,7 +87,7 @@
       "fc169321-941f-4ff3-ace8-7ab0df9943e8",
       "aad94bf3-cc29-462f-9ddd-6d6424ebcdf1"
     ],
-    "dough": "тонкое",
+    "dough": "thin",
     "size": 30,
     "price": 26.49
   },
@@ -97,14 +97,14 @@
       "dcc4dc00-7ba7-45bb-a393-b4567cb44f60",
       "4c7f7c2c-a56b-4a21-bc01-62d2ef6f6d87"
     ],
-    "dough": "тонкое",
+    "dough": "thin",
     "size": 40,
     "price": 19.99
   },
   {
     "id": "59fa2361-0b9d-4314-8521-a8066d25d1f7",
     "pizzasIds": ["9c8c1f0b-5ba6-46fc-b733-732f9540cfc6"],
-    "dough": "тонкое",
+    "dough": "thin",
     "size": 40,
     "price": 23.49
   },
@@ -115,21 +115,21 @@
       "c8b29daf-72ae-4228-bc58-3d5182532819",
       "aad94bf3-cc29-462f-9ddd-6d6424ebcdf1"
     ],
-    "dough": "тонкое",
+    "dough": "thin",
     "size": 40,
     "price": 26.49
   },
   {
     "id": "e264a794-c5a2-407f-b5f6-cb206e6e4995",
     "pizzasIds": ["fc169321-941f-4ff3-ace8-7ab0df9943e8"],
-    "dough": "тонкое",
+    "dough": "thin",
     "size": 40,
     "price": 29.99
   },
   {
     "id": "abc03833-3f20-46d2-886d-478d01d7bb2d",
     "pizzasIds": ["40998ec3-3836-43aa-a0eb-44d9ef058597"],
-    "dough": "тонкое",
+    "dough": "thin",
     "size": 40,
     "price": 33.39
   },
@@ -139,14 +139,14 @@
       "dcc4dc00-7ba7-45bb-a393-b4567cb44f60",
       "4c7f7c2c-a56b-4a21-bc01-62d2ef6f6d87"
     ],
-    "dough": "традиционное",
+    "dough": "thick",
     "size": 26,
     "price": 6.99
   },
   {
     "id": "7e035587-0342-4629-93e5-4e4e2f6c7439",
     "pizzasIds": ["9c8c1f0b-5ba6-46fc-b733-732f9540cfc6"],
-    "dough": "традиционное",
+    "dough": "thick",
     "size": 26,
     "price": 11.49
   },
@@ -157,7 +157,7 @@
       "b89387ce-efba-4a06-b716-40bb0057e15b",
       "c8b29daf-72ae-4228-bc58-3d5182532819"
     ],
-    "dough": "традиционное",
+    "dough": "thick",
     "size": 26,
     "price": 15.99
   },
@@ -167,7 +167,7 @@
       "fc169321-941f-4ff3-ace8-7ab0df9943e8",
       "aad94bf3-cc29-462f-9ddd-6d6424ebcdf1"
     ],
-    "dough": "традиционное",
+    "dough": "thick",
     "size": 26,
     "price": 17.99
   },
@@ -177,14 +177,14 @@
       "dcc4dc00-7ba7-45bb-a393-b4567cb44f60",
       "4c7f7c2c-a56b-4a21-bc01-62d2ef6f6d87"
     ],
-    "dough": "традиционное",
+    "dough": "thick",
     "size": 30,
     "price": 15.99
   },
   {
     "id": "2c8f4e1a-9010-4c92-97f0-466bb8bd6a18",
     "pizzasIds": ["9c8c1f0b-5ba6-46fc-b733-732f9540cfc6"],
-    "dough": "традиционное",
+    "dough": "thick",
     "size": 30,
     "price": 20.49
   },
@@ -195,7 +195,7 @@
       "b89387ce-efba-4a06-b716-40bb0057e15b",
       "c8b29daf-72ae-4228-bc58-3d5182532819"
     ],
-    "dough": "традиционное",
+    "dough": "thick",
     "size": 30,
     "price": 22.99
   },
@@ -205,7 +205,7 @@
       "fc169321-941f-4ff3-ace8-7ab0df9943e8",
       "aad94bf3-cc29-462f-9ddd-6d6424ebcdf1"
     ],
-    "dough": "традиционное",
+    "dough": "thick",
     "size": 30,
     "price": 26.49
   },
@@ -215,14 +215,14 @@
       "dcc4dc00-7ba7-45bb-a393-b4567cb44f60",
       "4c7f7c2c-a56b-4a21-bc01-62d2ef6f6d87"
     ],
-    "dough": "традиционное",
+    "dough": "thick",
     "size": 40,
     "price": 19.99
   },
   {
     "id": "046fdd82-adbc-4a21-b744-9b6aab204fff",
     "pizzasIds": ["9c8c1f0b-5ba6-46fc-b733-732f9540cfc6"],
-    "dough": "традиционное",
+    "dough": "thick",
     "size": 40,
     "price": 24.49
   },
@@ -233,7 +233,7 @@
       "b89387ce-efba-4a06-b716-40bb0057e15b",
       "c8b29daf-72ae-4228-bc58-3d5182532819"
     ],
-    "dough": "традиционное",
+    "dough": "thick",
     "size": 40,
     "price": 26.49
   },
@@ -243,7 +243,7 @@
       "fc169321-941f-4ff3-ace8-7ab0df9943e8",
       "aad94bf3-cc29-462f-9ddd-6d6424ebcdf1"
     ],
-    "dough": "традиционное",
+    "dough": "thick",
     "size": 40,
     "price": 29.99
   }
